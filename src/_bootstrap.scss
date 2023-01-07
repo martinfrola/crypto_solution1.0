@@ -1,0 +1,15 @@
+$black: #251d3a;
+$navy: #2a2550;
+$orange_dark: #e04d01;
+$orange_light: #ff7700;
+
+$dark: $orange_dark;
+$primary: $black;
+$secondary: $navy;
+$light: $orange_light;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap");
+$font-family-sans-serif: "Poppins", sans-serif;
+$font-family-monospace: "Poppins", sans-serif;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
